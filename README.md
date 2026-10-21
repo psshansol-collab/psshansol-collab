@@ -10,4 +10,4 @@
 - 이름: 박상선
 - 직위: 전임
 
-file:///C:/Users/Windows11%20K/Documents/Codex/2026-10-21/new-chat-3/outputs/index.html
+
